@@ -1,0 +1,22 @@
+To Do List (In no order):
+
+
+- Give a simple formula to adjust your ratios based on local humidity and air pressure
+- State local conditions and personally observed densities relative to the average of multiple internet sources
+
+
+
+
+
+Nick's Thoughts on Workflow:
+
+- Data scrape 100 recipes, citing and recording their contents for the ingredients. Include an occurance count for each ingredient, and modify dataframe to consolidate things like "egg" vs "eggs."
+- Include prep steps and baking time/temps
+- Observe the most common ingredients, and manually create an accurate dictionary containing densities for all items that will be included in the median meal
+- Calculate the actual contents of each recipe into mass amounts for accurate statistical analysis
+- Normalize all quantities by total recipe weight for breakdown bar plot
+
+To remove:
+
+- Exclude common name conversions like "granulated sugar to white sugar" since the text parsing will probably be wrong a bunch; I percieve this step to be tedious and not worth the effort, and this may just complicate things. Scripts CAN do this, but I feel as if a human in the loop might just be less effort.
+- Exclude ChatGPT from the process, since its unreliable for accurate data. It reports on what it has, and if it doesn't have it, it makes it up.
