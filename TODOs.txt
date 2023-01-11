@@ -3,6 +3,10 @@ To Do List (In no order):
 
 - Give a simple formula to adjust your ratios based on local humidity and air pressure
 - State local conditions and personally observed densities relative to the average of multiple internet sources
+- Create consistent naming conventions for things like egg vs eggs
+- Add std dev bounds to density measurements? Include this in the mass data comparison to expand the variability range?
+- Make a list of 10 basic recipes to perfect this process upon
+- List statistical analyses to perform on resultanting data for insights into cooking/baking outcomes!
 
 
 
