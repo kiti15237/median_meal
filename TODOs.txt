@@ -2,11 +2,22 @@ To Do List (In no order):
 
 
 - Give a simple formula to adjust your ratios based on local humidity and air pressure
+        - Nick?
 - State local conditions and personally observed densities relative to the average of multiple internet sources
+        - Low priority?
 - Create consistent naming conventions for things like egg vs eggs
+        - Will be iterative as we add more recipes
 - Add std dev bounds to density measurements? Include this in the mass data comparison to expand the variability range?
+        - I'm having trouble seeing how we would communicate this clearly and concisely. Thinking that this might overcomplicate the problem past the point of usefulness, but if you have ideas for how that would look logistically, do tell!
 - Make a list of 10 basic recipes to perfect this process upon
+        - Oatmeal cookies
+        - 
 - List statistical analyses to perform on resultanting data for insights into cooking/baking outcomes!
+
+- Include prep steps and baking time/temps
+        - This is the most challenging! I will save it for later
+        
+- Add nutrition calculator and associated graphics
 
 
 
@@ -18,9 +29,13 @@ Nick's Thoughts on Workflow:
 - Include prep steps and baking time/temps
 - Observe the most common ingredients, and manually create an accurate dictionary containing densities for all items that will be included in the median meal
 - Calculate the actual contents of each recipe into mass amounts for accurate statistical analysis
+    - DONE
 - Normalize all quantities by total recipe weight for breakdown bar plot
+    - DONE
 
 To remove:
 
-- Exclude common name conversions like "granulated sugar to white sugar" since the text parsing will probably be wrong a bunch; I percieve this step to be tedious and not worth the effort, and this may just complicate things. Scripts CAN do this, but I feel as if a human in the loop might just be less effort.
+-  Exclude common name conversions like "granulated sugar to white sugar" since the text parsing will probably be wrong a bunch; I percieve this step to be tedious and not worth the effort, and this may just complicate things. Scripts CAN do this, but I feel as if a human in the loop might just be less effort.
+    - DONE - we talked about it, human in the loop is exactly what this line in the script is! It's not doing anything automatically really, it's just doing the explicit conversions we manually type in
 - Exclude ChatGPT from the process, since its unreliable for accurate data. It reports on what it has, and if it doesn't have it, it makes it up.
+    - DONE
