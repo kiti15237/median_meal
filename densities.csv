@@ -1,7 +1,8 @@
-all-purpose flour,0.763
-baking soda,2.2
-salt,2.16
-butter,0.96
+all-purpose flour,0.51
+whole wheat flour,0.54
+baking soda,0.97
+salt,0.49
+butter,1.08
 white sugar,0.85
 vanilla extract,0.88
 chocolate chips,1.01
@@ -9,12 +10,11 @@ eggs,1.031
 egg,1.031
 eggyolk,1.023
 brown sugar,0.93
-hot water,1
+water,1
 ounce) package yellow cake mix,0.85
 walnuts,0.91
 shortening,0.9
 coffee-flavored liqueur,0.789
-rolled oats,1.03
 baking powder,0.05
 chopped pecans,0.85
 almonds,1
@@ -24,3 +24,28 @@ instant espresso coffee powder,0.064
 vegetable oil,0.92
 margarine,0.92
 ground white pepper,1
+cinnamon,0.446
+cloves,0.446
+raisins,0.61
+applesauce,1.03
+bananas,1.1
+honey,1.43
+coconut,0.28
+pumpkin puree,1.04
+confectioners' sugar,0.51
+oatmeal,0.8
+oats,0.8
+zucchini,0.5
+granola,0.8
+nutmeg,0.446
+apple,0.75
+cranberries,0.42
+white chocolate,0.95
+molasses,1.42
+whipping cream,1.01
+orange zest,0.41
+orange extract,1
+rice cereal,0.11
+toffee,0.57
+cocoa powder,0.36
+canola oil,0.91
