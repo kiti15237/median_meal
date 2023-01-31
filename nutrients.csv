@@ -1,0 +1,10 @@
+food_names,food_central_id,Energy,Protein,Total lipid (fat),Ash,"Carbohydrate, by difference"
+all-purpose flour,789890,3.66,0.109,0.0148,0.0042,0.773
+baking soda,175040,0,0,0,0.369,0
+brown sugar,168833,3.8,0.0012,0,0.0045,0.9809
+butter,173430,7.17,0.0085,0.8111,0.0009,0.0006
+eggs,748967,1.48,0.124,0.0996,0.0085,0.0096
+salt,746775,,,,0.99,
+vanilla extract,173471,2.88,0.0006,0.0006,0.0026,0.1265
+white sugar,746784,3.85,0,0.0032,0.0007,0.996
+chocolate chips,,5,0,0,0,0
